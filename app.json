@@ -1,0 +1,39 @@
+{
+  "id": "cae73ce1-6449-40aa-8dd3-fc1105214ef0",
+  "name": "POSActionUltimateQuestion",
+  "publisher": "NaviPartner",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "name": "NP Retail",
+      "version": "2500.64.0.10000",
+      "id": "992c2309-cca4-43cb-9e41-911f482ec088",
+      "publisher": "NaviPartner"
+    }
+  ],
+  "screenshots": [],
+  "platform": "25.0.0.0",
+  "application": "25.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "14.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
